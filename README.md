@@ -1,11 +1,3 @@
-<<<<<<< Updated upstream
-# spod
-<<<<<<< Updated upstream
-(S)parkling (P)rometheus (U)gly (D)iff
-
-=======
-(Sp)arkling (O)penTelemetry (metrics) Diff
-=======
 # spud
 (S)parkling (P)rometheus (U)gly (D)iff
 
@@ -15,7 +7,6 @@ The next two columns represent the timeseries name and value for the second expo
 difference between the two values, if applicable. One line is bolded to draw attention to the timeseries existing in both
 exporters, but with different values.](example.png)
 
->>>>>>> Stashed changes
 ## Wut?
 
 Inspired by a very real scenario which came up recently, I found myself wondering
@@ -27,7 +18,3 @@ Therefore, I try to do better for this very niche concern by:
 - Taking two endpoints
 - Collecting their metrics
 - Displaying a diff, especially when the values by a certain input amount
-<<<<<<< Updated upstream
-=======
->>>>>>> Stashed changes
->>>>>>> Stashed changes
